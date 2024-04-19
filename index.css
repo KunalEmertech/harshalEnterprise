@@ -190,26 +190,6 @@ body {
     white-space: nowrap;
     /* border: 2px solid red; */
 }
-/* #certificates:hover .certificate-slide{
-    animation-play-state: paused;
-} */
-/* .certificate-slide img
-{
-    height: 95px;
-    margin: 0 40px;
-}
-.certificate-slide{
-    display: inline-block;
-    animation: 11s slide infinite linear;
-}
-@keyframes slide{
-    from {
-        transform: translateX(0);
-    }
-    to {
-        transform: translateX(-100%);
-    }
-} */
 
 .site-footer-widgets
 {
